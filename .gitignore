@@ -1,0 +1,31 @@
+node_modules/
+dist/
+.vite/
+coverage/
+.DS_Store
+.npmrc
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+!.env.example
+
+# Local visual iteration captures
+design/*-v2.png
+design/*-v3.png
+design/prototype-collapsed-sequence.png
+design/prototype-collapsed.png
+design/prototype-expanded.png
+design/prototype-mobile.png
+design/qa-comparison-collapsed.png
+design/qa-comparison-expanded.png
+
+# Local resume (contains personal information)
+/resume-html/
+
+# Local design references and visual QA artifacts
+/design/
+/design-qa.md
